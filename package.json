@@ -1,0 +1,23 @@
+{
+  "name": "redux-toolkit",
+  "version": "1.0.0",
+  "description": "\"# redux-toolkit\"",
+  "homepage": "https://github.com/yuviwolvy/redux-toolkit#readme",
+  "bugs": {
+    "url": "https://github.com/yuviwolvy/redux-toolkit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuviwolvy/redux-toolkit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1"
+  }
+}
